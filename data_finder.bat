@@ -1,0 +1,1 @@
+py C:/Users/chu-ping.yu/"OneDrive - Thermo Fisher Scientific"/softwares/data-manager/data_finder.py ./

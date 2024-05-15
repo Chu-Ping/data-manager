@@ -46,7 +46,7 @@ class DataFinder(QMainWindow):
             
             self.lineedits[-1].returnPressed.connect(self.handle_search)
 
-        self.layout.addWidget(self.pathlist, i_row+1, 0)
+        self.layout.addWidget(self.pathlist, i_row+1, 0, 1, 2)
 
         self.widget.setLayout(self.layout)
 

@@ -56,5 +56,5 @@ class Database:
 if __name__ == "__main__":
     db = Database()
 
-    db.create_base(r'C:\Users\chu-ping.yu\OneDrive - Thermo Fisher Scientific\data\magical')
+    db.create_base(r'C:\Users\chu-ping.yu\OneDrive - Thermo Fisher Scientific\data')
 
